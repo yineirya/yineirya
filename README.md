@@ -1,6 +1,10 @@
 # 🌸 Yineiry Alarcon
 
-**Software Developer | First-Gen Latina in Tech | Secretary of Women in Tech | Secretary of INFORMS (Institute for Operations Research and the Management Sciences)**
+💁‍♀️ **About Me**
+Hi, I’m Yineiry Alarcon — a first-generation Computer Science student at Pace University, graduating in Spring 2026 with a concentration in Software Engineering and a minor in Mathematics. I’m passionate about making tech more inclusive, solving real-world problems, and creating digital experiences that matter.
+
+📚**On campus**  
+I serve as the Secretary of Women in Tech, where I help lead initiatives that empower women pursuing careers in STEM. Our team was recently awarded Outstanding Program of the Year! I also serve as Secretary of INFORMS (Institute for Operations Research and the Management Sciences), where I support student engagement and professional development in analytics, operations research, and decision sciences.
 
 ---
 
