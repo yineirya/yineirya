@@ -52,5 +52,6 @@ Recipe app that fetches, filters, and stores recipes from online APIs using JSou
 ## 🔧 C & UNIX Projects
 
 ### 🎛️ Analog Synthesizer Simulator
-Simulated analog synthesizer in C with custom configuration functions and dynamic memory management.  
-[🔗 View on GitHub](#)
+
+A C programming project that simulates the configuration and behavior of an analog synthesizer using structs, pointers, and dynamic memory allocation.
+[🔗 View on GitHub] (https://github.com/yineirya/analog-synthesizer/)
