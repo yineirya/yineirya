@@ -23,6 +23,11 @@ A site created for a non-profit organization in a Web Design course at Pace Univ
 Java application that manages student data using a binary search tree. Includes insert, search, and traversal methods.  
 [🔗 View on GitHub](#)
 
+### 🎬 Video Rental Store
+
+A console-based video rental management system built using object-oriented design and array-based data structures. This project simulates a customer and inventory system where users can add customers and videos, rent and return videos, and view renters by video title.  
+🔗 [View on GitHub](https://github.com/yineirya/video-rental-store)
+
 ---
 
 ## 🐍 Python Projects
