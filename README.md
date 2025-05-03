@@ -60,3 +60,9 @@ Recipe app that fetches, filters, and stores recipes from online APIs using JSou
 
 A C programming project that simulates the configuration and behavior of an analog synthesizer using structs, pointers, and dynamic memory allocation.  
 🔗 [View on GitHub](https://github.com/yineirya/analog-synthesizer/)
+
+### 🧮 Financial Calculator
+
+A terminal-based C program that performs simple and compound interest calculations based on user input.
+
+🔗 [View on GitHub](https://github.com/yineirya/financial-calculator)
