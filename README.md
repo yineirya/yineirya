@@ -49,8 +49,8 @@ Created a responsive web app using React.js, Node.js, and PostgreSQL hosted on A
 ## 📱 Mobile Projects (Android, Kotlin)
 
 ### 🍽️ EZ Eats
-Recipe app that fetches, filters, and stores recipes from online APIs using JSoup, Room, and AWS DynamoDB.  
-[🔗 View on GitHub](#)
+A recipe-finding Android app that allows users to search, filter, and save recipes from trusted sources. Features JSoup web scraping, Google Custom Search, and AWS integration.  
+🔗 [View on GitHub](https://github.com/yineirya/ezeats/)
 
 ---
 
