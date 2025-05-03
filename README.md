@@ -1,6 +1,6 @@
 # 🌸 Yineiry Alarcon
 
-**Software Developer | Women in Tech | First-Gen Latina in Tech**
+**Software Developer | First-Gen Latina in Tech | Secretary of Women in Tech | Secretary of INFORMS (Institute for Operations Research and the Management Sciences)**
 
 ---
 
