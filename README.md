@@ -4,6 +4,14 @@
 
 ---
 
+### 🐾 Wildlife Sanctuary Website
+A responsive site created for a non-profit organization in a Web Design course at Pace University. Focused on conservation, education, and community outreach.
+
+🔗 [Live Demo](https://yineirya.github.io/Wildlife-Rescue-Project/)  
+💻 [View on GitHub](https://github.com/yineirya/Wildlife-Rescue-Project)
+
+---
+
 ## 💻 Java Projects
 
 ### 🎓 Student Binary Search Tree
