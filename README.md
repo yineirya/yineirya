@@ -7,13 +7,18 @@ Hi, I’m Yineiry — a first-generation Computer Science student at Pace Univer
 I serve as the Secretary of Women in Tech, where I help lead initiatives that empower women pursuing careers in STEM. Our team was recently awarded Outstanding Program of the Year! I also serve as Secretary of INFORMS (Institute for Operations Research and the Management Sciences), where I support student engagement and professional development in analytics, operations research, and decision sciences.
 
 ---
-# 📝 Projects
+# 📝 HTML & CSS Projects
 
 ### 🐾 Wildlife Sanctuary Website
 A site created for a non-profit organization in a Web Design course at Pace University. Focused on conservation, education, and community outreach.
 
 🔗 [Live Demo](https://yineirya.github.io/Wildlife-Rescue-Project/)  
 💻 [View on GitHub](https://github.com/yineirya/Wildlife-Rescue-Project)
+
+### 🎮 Flappy Bird
+A fun and visually soft re-creation of the classic Flappy Bird game, coded from scratch using **HTML**, **CSS**, and **JavaScript**.  
+🔗 [Live Demo](https://yineirya.github.io/flappy-bird/)  
+💻 [View on GitHub](https://github.com/yineirya/flappy-bird)
 
 ---
 
@@ -34,7 +39,10 @@ A console-based video rental management system built using object-oriented desig
 
 ### 💼 JP Morgan Virtual Experience
 Built live data visualizations using Python and JavaScript in a simulated finance environment.  
-[🔗 View on GitHub](#)
+[🔗 View on GitHub]  
+(Part one: https://github.com/yineirya/forage-jpmc-swe-task-1.git)  
+(Part two: https://github.com/yineirya/forage-jpmc-swe-task-2.git)  
+(Part three: https://github.com/yineirya/forage-jpmc-swe-task-3.git)  
 
 ---
 
