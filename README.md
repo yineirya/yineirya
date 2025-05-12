@@ -1,7 +1,12 @@
-# 🌸 Yineiry Alarcon
+# Hi, I’m Yineiry!🌸
+  
+- ❀ I'm a first-generation Computer Science student at Pace University, graduating in Spring 2026 with a minor in Mathematics.  
+- ♡ I’m passionate about making tech more inclusive, solving real-world problems, and creating digital experiences that matter.
+- ✈ I love traveling, cooking, legos, and discovering new resturants in NYC.
+- ➤ Email: [yineiry.alarcon@pace.edu](mailto:ya75654n@pace.edu)
+- ⚘ Linkedin: [linkedin.com/yineirya](https://www.linkedin.com/in/yineiry-alarcon/)
 
-## 💁‍♀️ **About Me**
-Hi, I’m Yineiry — a first-generation Computer Science student at Pace University, graduating in Spring 2026 with a concentration in Software Engineering and a minor in Mathematics. I’m passionate about making tech more inclusive, solving real-world problems, and creating digital experiences that matter.
+____________________________________________________________________________________
 
 ## 📚 **On campus**  
 I serve as the Secretary of Women in Tech, where I help lead initiatives that empower women pursuing careers in STEM. Our team was recently awarded Outstanding Program of the Year! I also serve as Secretary of INFORMS (Institute for Operations Research and the Management Sciences), where I support student engagement and professional development in analytics, operations research, and decision sciences.
