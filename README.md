@@ -2,7 +2,7 @@
   
 - ❀ I'm a first-generation Computer Science student at Pace University, graduating in Spring 2026 with a minor in Mathematics.  
 - ♡ I’m passionate about making tech more inclusive, solving real-world problems, and creating digital experiences that matter.
-- ✈ I love traveling, cooking, building Legos, and discovering new restaurants in NYC.
+- ✈ I love traveling, cooking, building Legos, pottery, and discovering new restaurants in NYC.
 - ✍︎ Email: [yineiry.alarcon@pace.edu](mailto:ya75654n@pace.edu)
 - ➤ Linkedin: [linkedin.com/yineirya](https://www.linkedin.com/in/yineiry-alarcon/)
 
