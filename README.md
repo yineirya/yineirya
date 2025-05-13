@@ -29,40 +29,6 @@ Attended a professional panel hosted by Clifford Chance, where women leaders in 
 <img width="60%" alt="Clifford Chance Women in Tech Panel" src="https://github.com/user-attachments/assets/ceab5fde-9dee-48bc-8dc2-83a0b1862e50" />
 
 # 💻 My Projects
-## 📝 HTML & CSS Projects
-### 🐾 Wildlife Sanctuary Website
-A site created for a non-profit organization in a Web Design course at Pace University. Focused on conservation, education, and community outreach.
-
-🔗 [Live Demo](https://yineirya.github.io/Wildlife-Rescue-Project/)  
-💻 [View on GitHub](https://github.com/yineirya/Wildlife-Rescue-Project)
-
-### 🎮 Flappy Bird
-A fun and visually soft re-creation of the classic Flappy Bird game, coded from scratch using **HTML**, **CSS**, and **JavaScript**.  
-🔗 [Live Demo](https://yineirya.github.io/flappy-bird/)  
-💻 [View on GitHub](https://github.com/yineirya/flappy-bird)
-
----
-
-## 💻 Java Projects
-
-### 🎬 Video Rental Store
-
-A console-based video rental management system built using object-oriented design and array-based data structures. This project simulates a customer and inventory system where users can add customers and videos, rent and return videos, and view renters by video title.  
-🔗 [View on GitHub](https://github.com/yineirya/video-rental-store)
-
----
-
-## 🐍 Python Projects
-
-### 💼 JP Morgan Virtual Experience
-Built live data visualizations using Python and JavaScript in a simulated finance environment.  
-[🔗 View on GitHub]  
-(Part one: https://github.com/yineirya/forage-jpmc-swe-task-1.git)  
-(Part two: https://github.com/yineirya/forage-jpmc-swe-task-2.git)  
-(Part three: https://github.com/yineirya/forage-jpmc-swe-task-3.git)  
-
----
-
 ## 🌐 Web Projects (React, JS, HTML/CSS)
 
 ### 🗺️ Full-Stack Country Database
@@ -79,6 +45,26 @@ A recipe-finding Android app that allows users to search, filter, and save recip
 
 ---
 
+## 🐍 Python Projects
+
+### 💼 JP Morgan Virtual Experience
+Built live data visualizations using Python and JavaScript in a simulated finance environment.  
+[🔗 View on GitHub]  
+(Part one: https://github.com/yineirya/forage-jpmc-swe-task-1.git)  
+(Part two: https://github.com/yineirya/forage-jpmc-swe-task-2.git)  
+(Part three: https://github.com/yineirya/forage-jpmc-swe-task-3.git)  
+
+---
+
+## 💻 Java Projects
+
+### 🎬 Video Rental Store
+
+A console-based video rental management system built using object-oriented design and array-based data structures. This project simulates a customer and inventory system where users can add customers and videos, rent and return videos, and view renters by video title.  
+🔗 [View on GitHub](https://github.com/yineirya/video-rental-store)
+
+---
+
 ## 🔧 C & UNIX Projects
 
 ### 🎛️ Analog Synthesizer Simulator
@@ -91,3 +77,17 @@ A C programming project that simulates the configuration and behavior of an anal
 A terminal-based C program that performs simple and compound interest calculations based on user input.
 
 🔗 [View on GitHub](https://github.com/yineirya/financial-calculator)
+
+## 📝 HTML & CSS Projects
+### 🐾 Wildlife Sanctuary Website
+A site created for a non-profit organization in a Web Design course at Pace University. Focused on conservation, education, and community outreach.
+
+🔗 [Live Demo](https://yineirya.github.io/Wildlife-Rescue-Project/)  
+💻 [View on GitHub](https://github.com/yineirya/Wildlife-Rescue-Project)
+
+### 🎮 Flappy Bird
+A fun and visually soft re-creation of the classic Flappy Bird game, coded from scratch using **HTML**, **CSS**, and **JavaScript**.  
+🔗 [Live Demo](https://yineirya.github.io/flappy-bird/)  
+💻 [View on GitHub](https://github.com/yineirya/flappy-bird)
+
+---
