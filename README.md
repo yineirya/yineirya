@@ -33,7 +33,7 @@ Attended a professional panel hosted by Clifford Chance, where women leaders in 
 
 ### 🗺️ Full-Stack Country Database
 Created a responsive web app using React.js, Node.js, and PostgreSQL hosted on AWS RDS.  
-[🔗 View on GitHub](#)
+[🔗 View on GitHub](https://github.com/yineirya/my-capstone-project.git)
 
 ---
 
