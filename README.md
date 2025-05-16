@@ -33,7 +33,7 @@ Attended a professional panel hosted by Clifford Chance, where women leaders in 
 
 ### 🗺️ Full-Stack Country Database
 Created a responsive web app using React.js, Node.js, and PostgreSQL hosted on AWS RDS.  
-[🔗 View on GitHub](https://github.com/yineirya/my-capstone-project.git)
+🔗 [View on GitHub](https://github.com/yineirya/my-capstone-project.git)
 
 ---
 
@@ -49,10 +49,9 @@ A recipe-finding Android app that allows users to search, filter, and save recip
 
 ### 💼 JP Morgan Virtual Experience
 Built live data visualizations using Python and JavaScript in a simulated finance environment.  
-[🔗 View on GitHub]  
-(Part one: https://github.com/yineirya/forage-jpmc-swe-task-1.git)  
-(Part two: https://github.com/yineirya/forage-jpmc-swe-task-2.git)  
-(Part three: https://github.com/yineirya/forage-jpmc-swe-task-3.git)  
+🔗 [Part one](https://github.com/yineirya/forage-jpmc-swe-task-1.git)  
+🔗 [Part two](https://github.com/yineirya/forage-jpmc-swe-task-2.git)  
+🔗 [Part three](https://github.com/yineirya/forage-jpmc-swe-task-3.git)  
 
 ---
 
