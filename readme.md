@@ -18,15 +18,15 @@ I serve as the Secretary of Women in Tech, where I help lead initiatives that em
 
 ### 🚀 Harvard WECode: Women Engineers Code Conference  
 Participated in the world’s largest student-run women in tech conference, hosted by Harvard University. Networked with engineers from top companies, attended keynotes and workshops on leadership, career growth, and technical skills.  
-<img width="60%" alt="Harvard WECode 2025" src="https://github.com/user-attachments/assets/76055297-d775-4336-829d-873b956d047f" />
+<img width="60%" alt="Harvard WECode 2025" src="wecode2025.png" />
 
 ### 🤝 StreetWise Partners Program  
 Completed a mentorship program aimed at expanding career pathways for first-generation students. Worked one-on-one with industry professionals to strengthen resumes, interview skills, and networking confidence.  
-<img width="60%" alt="StreetWise Partners Program" src="https://github.com/user-attachments/assets/dd934271-8871-4d05-841f-239f969c026b" />
+<img width="60%" alt="StreetWise Partners Program" src="streetwise.png" />
 
 ### 💼 Clifford Chance Women in Tech Panel  
 Attended a professional panel hosted by Clifford Chance, where women leaders in law and technology shared insights on navigating their careers and breaking barriers in male-dominated industries.  
-<img width="60%" alt="Clifford Chance Women in Tech Panel" src="https://github.com/user-attachments/assets/ceab5fde-9dee-48bc-8dc2-83a0b1862e50" />
+<img width="60%" alt="Clifford Chance Women in Tech Panel" src="cliffordchance.jpg" />
 
 # 💻 My Projects
 ## 🌐 Web Projects (React, JS, HTML/CSS)
