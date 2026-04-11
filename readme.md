@@ -14,21 +14,25 @@ I serve as the Secretary of Women in Tech, where I help lead initiatives that em
 
 ---
 
-## 🌟 Events & Conferences
-
-### 🚀 Harvard WECode: Women Engineers Code Conference  
-Participated in the world’s largest student-run women in tech conference, hosted by Harvard University. Networked with engineers from top companies, attended keynotes and workshops on leadership, career growth, and technical skills.  
-<img width="60%" alt="Harvard WECode 2025" src="wecode2025.png" />
-
-### 🤝 StreetWise Partners Program  
-Completed a mentorship program aimed at expanding career pathways for first-generation students. Worked one-on-one with industry professionals to strengthen resumes, interview skills, and networking confidence.  
-<img width="60%" alt="StreetWise Partners Program" src="streetwise.png" />
-
-### 💼 Clifford Chance Women in Tech Panel  
-Attended a professional panel hosted by Clifford Chance, where women leaders in law and technology shared insights on navigating their careers and breaking barriers in male-dominated industries.  
-<img width="60%" alt="Clifford Chance Women in Tech Panel" src="cliffordchance.jpg" />
-
 # 💻 My Projects
+
+## 🤖 Enterprise & AI Systems (Java, Python, Spark)
+
+### 📊 AI-Powered HCM Predictive Analytics Platform
+An enterprise-grade system that predicts employee attrition risk. This project integrates a **Java Spring Boot** backend with a **Python Machine Learning** microservice and uses **Apache Spark** to process over 10,000 employee records.
+**Key Tech:** Java, Spring Boot, PySpark, Scikit-Learn, FastAPI, PostgreSQL, Docker.
+🔗 [View on GitHub](https://github.com/yineirya/AI-HCM-Platform)
+
+---
+
+## 📈 Data Engineering & Analytics (Python, SQL)
+
+### ⚡ Big Data ETL Pipeline (PySpark)
+Designed and implemented a high-volume data ingestion pipeline using **Apache Spark**. Automated the migration of 10,000+ synthetic records into a **PostgreSQL** environment, simulating real-world enterprise data workflows.
+🔗 [View on GitHub](https://github.com/yineirya/ai-strategy-engine)
+
+---
+
 ## 🌐 Web Projects (React, JS, HTML/CSS)
 
 ### 🗺️ Full-Stack Country Database
