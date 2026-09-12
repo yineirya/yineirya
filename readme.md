@@ -1,16 +1,16 @@
 # Hi, I’m Yineiry!🌸
   
-- ❀ I'm a first-generation Computer Science student at Pace University, graduating in Spring 2026 with a minor in Mathematics.  
+- ❀ I'm a first-generation Computer Science graduate of Pace University (Class of 2026) with a minor in Mathematics. 
 - ♡ I’m passionate about making tech more inclusive, solving real-world problems, and creating digital experiences that matter.
 - ✈ I love traveling, cooking, building Legos, pottery, and discovering new restaurants in NYC.
-- ✍︎ Email: [yineiry.alarcon@pace.edu](mailto:ya75654n@pace.edu)
+- ✍︎ Email: [yineiry07@gmail.com](mailto:yineiry07@gmail.com)
 - ➤ Linkedin: [linkedin.com/yineirya](https://www.linkedin.com/in/yineiry-alarcon/)
 
 ____________________________________________________________________________________
 
-## 📚 On Campus   
+## 🚀 Currently
 
-I serve as the Secretary of Women in Tech, where I help lead initiatives that empower women pursuing careers in STEM. Our team was recently awarded Outstanding Program of the Year! I also serve as Secretary of INFORMS (Institute for Operations Research and the Management Sciences), where I support student engagement and professional development in analytics, operations research, and decision sciences.
+I'm actively job searching for an entry-level Software Development Engineer role. I'm strengthening my data analytics skill set through the Google Data Analytics Professional Certificate, Google AI Essentials Certificate, and the Microsoft Power BI Data Analyst Professional Certificate (PL-300). I'm also completing job simulations and courses on Forage and DataCamp to build hands-on experience with data visualization, statistics, and AI tools.
 
 ---
 
@@ -26,6 +26,12 @@ An enterprise-grade system that predicts employee attrition risk. This project i
 ---
 
 ## 📈 Data Engineering & Analytics (Python, SQL)
+
+### 🏢 CRE Credit Risk & Performance Suite (Tableau)
+A dashboard stress-testing $646M+ in commercial real estate debt against debt service shocks and policy thresholds. Features a dynamic stress-test engine, an underwriting quadrant matrix plotting DSCR against LTV, and cross-filtering delinquency tracking.
+
+🔗 [View on GitHub](https://github.com/yineirya/proplend-credit-risk-dashboard)
+🔗 [Live Dashboard](https://public.tableau.com/app/profile/yineiry.alarcon/viz/PropLendCapital-PortfolioCreditRiskPerformanceSuite/01_Executive_Summary)
 
 ### ⚡ Big Data ETL Pipeline (PySpark)
 Designed and implemented a high-volume data ingestion pipeline using **Apache Spark**. Automated the migration of 10,000+ synthetic records into a **PostgreSQL** environment, simulating real-world enterprise data workflows.
