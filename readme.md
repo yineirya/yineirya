@@ -10,32 +10,56 @@ ________________________________________________________________________________
 
 ## 🚀 Currently
 
-I'm actively job searching for an entry-level Software Development Engineer role. I'm strengthening my data analytics skill set through the Google Data Analytics Professional Certificate, Google AI Essentials Certificate, and the Microsoft Power BI Data Analyst Professional Certificate (PL-300). I'm also completing job simulations and courses on Forage and DataCamp to build hands-on experience with data visualization, statistics, and AI tools.
+Open to entry-level roles in software engineering, data analytics, AI and automation, and technical solutions. Open to relocation.
+
+- 🔐 Building identity, automation, and LLM-powered systems with Python, Java, and cloud APIs
+- 📊 Completing the COOP Careers x NYU Data Analytics Fellowship (SQL, Python, Tableau, Excel)
+- 📚 Earning the Google AI Essentials
+- 🤝 Meeting recruiters and engineers at the SHPE 2026 National Convention. Let's connect!
+
+**Tech Stack:** Python · Java · C++ · SQL · JavaScript · Microsoft Entra ID · OAuth 2.0 · REST APIs · LangGraph · Groq API · Tableau · Excel · Google Cloud Run · AWS · Docker · PostgreSQL
+
+---
+
+# 💼 Professional Work
+
+### 🔐 Identity Provisioning & Automation, Penguin Coding School
+Built Python services automating student onboarding for 1,000+ students. Code is private to the company.
+- Provisioned 500 Microsoft Entra ID accounts per semester through Microsoft Graph API, authenticated with an Entra ID app registration (OAuth 2.0 client credentials).
+- Cut account provisioning time 96.7% with logging, retry handling, and duplicate prevention.
+- Deployed on Google Cloud Run and Cloud Scheduler, replacing 20-30 manual hours weekly across 5 workflows.
+
+**Key Tech:** Python, Microsoft Graph API, Microsoft Entra ID, Google Sheets API, Gmail API, Google Cloud Run, Cloud Scheduler.
 
 ---
 
 # 💻 My Projects
 
-## 🤖 Enterprise & AI Systems (Java, Python, Spark)
+## 🤖 Enterprise & AI Systems (Java, Python, Spark, LLMshelp me )
+
+### 🧠 AI Strategy Engine (Multi-Agent LLM System)
+A 4-agent LangGraph workflow using the **Groq Llama-3.3-70B API** with Pydantic-validated structured outputs. A governance agent audits designs for PII and policy risks and sends unsafe designs back for rework.
+
+**Key Tech:** Python, LangGraph, LangChain, Groq API, Pydantic, Streamlit.
+
+🔗 [View on GitHub](https://github.com/yineirya/ai-strategy-engine)
 
 ### 📊 AI-Powered HCM Predictive Analytics Platform
 An enterprise-grade system that predicts employee attrition risk. This project integrates a **Java Spring Boot** backend with a **Python Machine Learning** microservice and uses **Apache Spark** to process over 10,000 employee records.
+
 **Key Tech:** Java, Spring Boot, PySpark, Scikit-Learn, FastAPI, PostgreSQL, Docker.
+
 🔗 [View on GitHub](https://github.com/yineirya/AI-HCM-Platform)
 
 ---
 
-## 📈 Data Engineering & Analytics (Python, SQL)
+## 📈 Data Analytics (Tableau)
 
 ### 🏢 CRE Credit Risk & Performance Suite (Tableau)
 A dashboard stress-testing $646M+ in commercial real estate debt against debt service shocks and policy thresholds. Features a dynamic stress-test engine, an underwriting quadrant matrix plotting DSCR against LTV, and cross-filtering delinquency tracking.
 
 🔗 [View on GitHub](https://github.com/yineirya/proplend-credit-risk-dashboard)
 🔗 [Live Dashboard](https://public.tableau.com/app/profile/yineiry.alarcon/viz/PropLendCapital-PortfolioCreditRiskPerformanceSuite/01_Executive_Summary)
-
-### ⚡ Big Data ETL Pipeline (PySpark)
-Designed and implemented a high-volume data ingestion pipeline using **Apache Spark**. Automated the migration of 10,000+ synthetic records into a **PostgreSQL** environment, simulating real-world enterprise data workflows.
-🔗 [View on GitHub](https://github.com/yineirya/ai-strategy-engine)
 
 ---
 
@@ -60,16 +84,6 @@ A recipe-finding Android app that allows users to search, filter, and save recip
 A challenging obstacle course built in Roblox Studio featuring kill blocks, conveyor belts, shrinking platforms, checkpoints, and more. The obby ends with a rewarding surprise that makes the experience both fun and memorable.  
 🔗 [Play on Roblox](https://www.roblox.com/games/9700632786/yineirys-game)  
 🔗 [View on GitHub](https://github.com/yineirya/roblox-obby)
-
----
-
-## 🐍 Python Projects
-
-### 💼 JP Morgan Virtual Experience
-Built live data visualizations using Python and JavaScript in a simulated finance environment.  
-🔗 [Part one](https://github.com/yineirya/forage-jpmc-swe-task-1.git)  
-🔗 [Part two](https://github.com/yineirya/forage-jpmc-swe-task-2.git)  
-🔗 [Part three](https://github.com/yineirya/forage-jpmc-swe-task-3.git)  
 
 ---
 
